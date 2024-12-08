@@ -81,14 +81,7 @@ python scrap_all.py
 bash
 python store_collections.py
 
-## File Structure
-├── scrap.py # Individual movie scraper
-├── scrap_all.py # Batch scraping manager
-├── store_collections.py # API server
-├── data/
-│ ├── reviews/ # Scraped review text files
-│ └── failed_reviews.txt
-└── chroma_db_data/ # Vector store database
+![alt text](image.png)
 
 
 ## Notes
